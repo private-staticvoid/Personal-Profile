@@ -1,0 +1,72 @@
+@media print {
+  * {
+    color: black !important;
+    background: white;
+
+  }
+
+  body {
+    font-family: 'Times New Roman', serif;
+    font-size: 12px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+  }
+
+  @page {
+    size: A4;
+    margin: 20mm;
+  }
+
+  .header img {
+    max-width: 200	x;
+    height: auto;
+    margin-bottom: 8px;
+    border: 2px solid black; 
+    padding: 4px;             
+    border-radius: 100%;
+  }
+
+  .header h1,
+  .header p,
+  .section h2,
+  .section div,
+  .section span,
+  .edu-entry strong,
+  .exp-entry li,
+  .activity-entry {
+    color: black !important;
+  }
+
+  .section h2 {
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-bottom: 1px solid black;
+    padding-bottom: 3px;
+    margin-bottom: 8px;
+  }
+
+  .skills-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+  }
+
+  .divider {
+    height: 1px;
+    background: black;
+    margin: 8px 0;
+  }
+
+  .btn-print,
+  .btn-back,
+  button,
+  a[href^="javascript:"] {
+    display: none !important;
+  }
+
+  .section {
+    page-break-inside: avoid;
+  }
+}
