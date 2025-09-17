@@ -16,4 +16,7 @@ This portfolio is designed to showcase:
 - 📱 **Responsive Design** – Works on desktop, tablet, and mobile
 
 ## 🛠️ Built With
-- **HTML5** – Structure of
+- **HTML5** – Structure of the website  
+- **CSS3** – Styling and layout  
+- **JavaScript** – Interactivity and functionality  
+
