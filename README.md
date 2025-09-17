@@ -5,7 +5,7 @@ This site is a hub where you can explore my **personal information, resume, and 
 
 ## 📖 About
 This portfolio is designed to showcase:
-- My background, education, and personal details  
+- My background, education, and personal details  ( fake details )
 - My professional resume (downloadable)  
 - My past projects with descriptions and links  
 
@@ -13,7 +13,7 @@ This portfolio is designed to showcase:
 - 📝 **Resume Section** – View and download my CV  ( fake  sample cv )
 - 👤 **Personal Info** – Quick overview about me  
 - 💻 **Projects Showcase** – Highlights of my previous works  
-- 📱 **Responsive Design** – Works on desktop, tablet, and mobile  
+- 📱 **Responsive Design** – Works on desktop, tablet, and mobile
 
 ## 🛠️ Built With
 - **HTML5** – Structure of the website  
