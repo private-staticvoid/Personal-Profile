@@ -10,7 +10,7 @@ This portfolio is designed to showcase:
 - My past projects with descriptions and links  
 
 ## 🚀 Features
-- 📝 **Resume Section** – View and download my CV  
+- 📝 **Resume Section** – View and download my CV  ( fake  sample cv )
 - 👤 **Personal Info** – Quick overview about me  
 - 💻 **Projects Showcase** – Highlights of my previous works  
 - 📱 **Responsive Design** – Works on desktop, tablet, and mobile  
